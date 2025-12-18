@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+#container{
+    background-color: #6943FF;
+    color:white;
+    height: 200px;
+}
+#convert-btn{
+    color:rgb(0, 0, 0);
+    width:80px;
+    height:30px;
+    border-radius: 3px;
+}
+#container1{
+    background-color:#e8e8e8;
+    height: 170px;
+    color: white;
+}
+#text-input{
+   background-color: #6943FF;
+   border:3px solid ;
+   border-color: #b6a3ff;
+   color:white;
+   height:30px;
+   width:150px;
+}
+::placeholder{
+    color: #ffffff;
+}
+#divs{
+    background-color: white;
+    height:55px;
+    color: rgb(54, 54, 54);
+}
+
